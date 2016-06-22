@@ -1,0 +1,36 @@
+/*
+ Localizable.strings
+ TOKU
+ 
+ Created by Igor Androsov on 7/30/13.
+ Copyright (c) 2013 appirio. All rights reserved.
+ */
+
+/* Popup alert message box text */
+
+"MSG.BTN.Refresh" = "Обновить данные";
+"MSG.BTN.Locate.Friend" = "Найти Друзей";
+"MSG.BTN.Add.Addres" = "Добавить в адресную книгу";
+
+"MSG.BTN.YES" = "Да";
+"MSG.BTN.NO" = "Нет";
+"MSG.BTN.OK" = "OK";
+"MSG.BTN.CANCEL" = "Отменить";
+"MSG.BTN.CONTINUE" = "Продолжить";
+"MSG.TITLE.Alert.Warning" = " Предупреждение";
+"MSG.TITLE.ALert.Error" = "Ошибка";
+"MSG.TITLE.Validation.Error" = "  Ошибка";
+
+"MSG.TEXT.Logout.Message" = "You are about to Logout";
+"MSG.TEXT.Alert.NoConection" = "Нет подключения к Интернету или устройство может быть в автономном режиме.";
+
+"MSG.TITLE.Contact" = "Контакт";
+"MSG.TITLE.Friends" = "Друзья";
+"MSG.TITLE.List" = "Список";
+"MSG.TITLE.Locations" = "Места";
+"MSG.TITLE.Map" = "Карта";
+"MSG.TITLE.People" = "Народ";
+"MSG.TXT.Cannot.Add.Contact" = "Нельзя добавить контакт без номера телефона";
+"MSG.TXT.Contact.Added" = "Контакт добавлен";
+"MSG.TXT.Add.Contact.Error" = "Нельзя добавить контакт - Ошибка";
+"MSG.TXT.No.Access.Address" = "Access to Address book not allowed";

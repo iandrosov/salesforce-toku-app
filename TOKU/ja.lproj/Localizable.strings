@@ -1,0 +1,92 @@
+/*
+ Localizable.strings
+ TOKU
+ 
+ Created by Igor Androsov on 7/30/13.
+ Copyright (c) 2013 appirio. All rights reserved.
+ */
+
+/* Popup alert message box text */
+
+"MSG.BTN.Refresh" = "データの更新";
+"MSG.BTN.Locate.Friend" = "友達を探します";
+"MSG.BTN.Add.Addres" = "アドレス帳に追加";
+"MSG.BTN.YES" = "はい";
+"MSG.BTN.NO" = "いいえ";
+"MSG.BTN.OK" = "OK";
+"MSG.BTN.CANCEL" = "キャンセル";
+"MSG.BTN.CONTINUE" = "Continue";
+"MSG.TITLE.Alert.Warning" = "  注意";
+"MSG.TITLE.ALert.Error" = "エラー";
+"MSG.TITLE.Validation.Error" = "  検証エラー";
+
+"MSG.TEXT.Logout.Message" = "You are about to Logout。 Are you sure you want to log out?";
+"MSG.TEXT.Alert.NoConection" = "インターネット接続ません";
+
+"MSG.TITLE.Contact" = "連絡先";
+"MSG.TITLE.Friends" = "友達";
+"MSG.TITLE.List" = "名鑑";
+"MSG.TITLE.Locations" = "場所";
+"MSG.TITLE.Map" = "地図";
+"MSG.TITLE.People" = "人民";
+"MSG.TXT.Cannot.Add.Contact" = "電話なしで連絡先を追加することはできません。";
+"MSG.TXT.Contact.Added" = "連絡先を追加しました。";
+"MSG.TXT.Add.Contact.Error" = "Cannot add Contact, error occured";
+"MSG.TXT.No.Access.Address" = "Access to Address book not allowed";
+
+/* Start App Meeting/Wake screen text */
+
+"LABEL.TEXT.Company" = "会社";
+"LABEL.TEXT.First.Name" = "名";
+"LABEL.TEXT.Last.Name" = "姓";
+"LABEL.TEXT.Email" = "電子メール";
+"LABEL.TEXT.Phone" = "電話 (000) 000-0000";
+
+"MSG.BTN.NO.Delete" = "いいえ - 削除";
+"MSG.BTN.YES.Save" = "はい - 保存";
+
+/* End Meeting View */
+"BTN.TEXT.Done" = "Done";
+"BTN.TEXT.NO.Continue" = "いいえ - 続ける";
+"BTN.TEXT.YES.Close" = "はい - 閉じる";
+"BTN.TEXT.No.Delete" = "いいえ - 削除";
+"BTN.TEXT.YES.Continue" = "はい - 続ける";
+"BTN.TEXT.View.Details" = "項目";
+"LABEL.TEXT.Select.Team" = "選択 チーム";
+
+/* Capabiliy View */
+
+"BTN.TEXT.Close" = "閉じる";
+"BTN.TEXT.Select" = "選択";
+
+/* Cleints - Case Study */
+"LABEL.TEXT.Select.Client" = "選択 Client";
+
+/* Solutions */
+"LABEL.TEXT.Select.Solution" = "選択 解答";
+
+
+"TITLE.Capability" = "%@ 資格";
+"TITLE.Team" = "%@ チーム";
+"TITLE.Case.Study" = "%@ ケーススタディ";
+"TITLE.Solutions" = "%@ 解答";
+"TITLE.Markets" = "%@ 市場";
+"TITLE.Related" = "Other Related Services";
+
+"TABBAR.Capability" = "資格";
+"TABBAR.Team" = "チーム";
+"TABBAR.Case.Study" = "ケーススタディ";
+"TABBAR.Solutions" = "解答";
+"TABBAR.Markets" = "市場";
+"TABBAR.Related" = "Related";
+
+"MSG.BTN.YES.Refresh.Images" = "はい - Refresh Images";
+"MSG.BTN.NO.Not.Now" = "いいえ - Not Now";
+
+
+/* Resources */
+
+"TEXT.All" = "全";
+"TEXT.Select.Category" = "カテゴリを選択";
+
+

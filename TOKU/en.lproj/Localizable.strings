@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  TOKU
+
+  Created by Igor Androsov on 7/30/13.
+  Copyright (c) 2013 appirio. All rights reserved.
+*/
+
+/* Popup alert message box text */
+
+"MSG.BTN.Refresh" = "Refresh Data";
+"MSG.BTN.Locate.Friend" = "Locate Friend";
+"MSG.BTN.Add.Addres" = "Add to Address Book";
+"MSG.BTN.YES" = "Yes";
+"MSG.BTN.NO" = "No";
+"MSG.BTN.OK" = "OK";
+"MSG.BTN.CANCEL" = "Cancel";
+"MSG.BTN.CONTINUE" = "Continue";
+"MSG.TITLE.Alert.Warning" = "  Warning";
+"MSG.TITLE.Alert.Error" = "  Error";
+"MSG.TITLE.Validation.Error" = "  Validation error";
+"MSG.TEXT.Logout.Message" = "You are about to Logout, all saved data will be lost. Are you sure you want to log out?";
+"MSG.TEXT.Alert.NoConection" = "No Internet connectivity or device may be off line.";
+
+"MSG.TITLE.Contact" = "Contact";
+"MSG.TITLE.Friends" = "Friends";
+"MSG.TITLE.List" = "List";
+"MSG.TITLE.Locations" = "Locations";
+"MSG.TITLE.Map" = "Map";
+"MSG.TITLE.People" = "People";
+"MSG.TXT.Cannot.Add.Contact" = "Cannot add Contact without a phone";
+"MSG.TXT.Contact.Added" = "Contact Added";
+"MSG.TXT.Add.Contact.Error" = "Cannot add Contact, error occured";
+"MSG.TXT.No.Access.Address" = "Access to Address book not allowed";
